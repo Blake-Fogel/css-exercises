@@ -55,3 +55,6 @@ ul {
 .right-content {
   display: flex;
 }
+.filler {
+  flex:1;
+}
