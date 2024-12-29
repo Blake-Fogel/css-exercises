@@ -12,7 +12,7 @@ body {
 .image-content {
   display: flex;
   flex-direction: row;
-  gap: 50px;
+  gap: 52px;
 }
 .image-and-caption {
   display: flex;
