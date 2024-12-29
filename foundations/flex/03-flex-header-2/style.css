@@ -55,13 +55,14 @@ ul {
 }
 .left-content {
   display:flex;
+  align-items: center;
+  gap: 16px;
 }
 .right-content {
   display: flex;
-  gap: 10px;
+  gap: 16px;
   align-items: center;
 }
 .filler {
   flex:1;
-  align-items: center;
 }
