@@ -19,6 +19,9 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.text {
+  margin: 10px 0;
+}
 .header {
   font-weight: bold;
   font-size: larger;
