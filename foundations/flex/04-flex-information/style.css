@@ -14,6 +14,7 @@ body {
   display: flex;
   flex-direction: row;
   gap: 52px;
+  align-items: baseline;
 }
 .image-and-caption {
   display: flex;
