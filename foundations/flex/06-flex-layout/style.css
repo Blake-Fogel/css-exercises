@@ -10,6 +10,10 @@ body {
   justify-content: space-between;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 .header li,
 .footer li {
   list-style-type: none;
