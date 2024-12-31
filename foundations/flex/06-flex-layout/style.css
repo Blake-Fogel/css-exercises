@@ -9,10 +9,12 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-li {
+.header li,
+.footer li {
   list-style-type: none;
 }
-a {
+.header a,
+.footer a {
   text-decoration: none;
 }
 img {
