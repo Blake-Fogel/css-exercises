@@ -14,9 +14,10 @@ body {
   background-color: #eeeeee;
 }
 
-.header li,
-.footer li {
+.header ul,
+.footer ul {
   list-style-type: none;
+  display: flex;
 }
 
 .header a,
