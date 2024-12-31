@@ -12,6 +12,9 @@ body {
 li {
   list-style-type: none;
 }
+a {
+  text-decoration: none;
+}
 img {
   width: 600px;
 }
