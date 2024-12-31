@@ -18,6 +18,11 @@ body {
 .footer ul {
   list-style-type: none;
   display: flex;
+  flex-direction: row;
+}
+
+.header, .footer {
+  display: flex;
 }
 
 .header a,
