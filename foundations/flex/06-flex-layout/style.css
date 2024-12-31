@@ -9,7 +9,9 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-
+li {
+  list-style-type: none;
+}
 img {
   width: 600px;
 }
