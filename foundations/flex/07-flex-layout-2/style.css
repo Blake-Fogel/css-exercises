@@ -7,6 +7,7 @@ body {
 }
 .content {
   flex: 1;
+  display: flex;
 }
 .header {
   height: 72px;
