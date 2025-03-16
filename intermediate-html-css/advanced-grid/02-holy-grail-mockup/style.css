@@ -67,7 +67,6 @@ ul {
   gap: 50px;
 }
 .sidebar > div {
-  border-radius: 10px;
   align-content: center;
 }
 .sidebar .photo {
