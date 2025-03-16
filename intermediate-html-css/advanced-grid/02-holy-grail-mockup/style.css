@@ -81,10 +81,16 @@ ul {
 .nav {
   background-color: #C50208;
 }
-
 .nav ul li {
   font-size: 16px;
   text-transform: uppercase;
+  display: inline;
+}
+.nav ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,1fr);
+  grid-template-rows: 1fr;
+  grid-auto-flow: column;
 }
 
 .article {
